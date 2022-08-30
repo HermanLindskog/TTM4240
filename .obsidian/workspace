@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "c11f88a93fe50e71",
+    "type": "split",
+    "children": [
+      {
+        "id": "eac0b1e76bbea748",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TTM4110/Lecture 2 - week 35.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "04adf745f25d46d8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TTM4110/Lecture 2 - week 35.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2bdce951d7481b54",
+    "type": "split",
+    "children": [
+      {
+        "id": "181fd9b60db913ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8831f7c9a49be5c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fe420739c1b4fe27",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#H2 ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3f7dee832de3d4c1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 197.5
+  },
+  "right": {
+    "id": "c7bf464bf8a3b9c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d380e1674b7b7cbf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13ed33f387bddef0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TTM4110/Lecture 2 - week 35.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa4271c23a83d7a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TTM4110/Lecture 2 - week 35.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7c9ecaeeda89f07c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9182dbe7c565caaf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TTM4110/Lecture 2 - week 35.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "eac0b1e76bbea748",
+  "lastOpenFiles": [
+    "TTM4110/Chapter 1.md",
+    "TTM4240/What's inside a router.md",
+    "TTM4240/Content addressable memory (CAM).md",
+    "TTM4240/Pasted image 20220828220458.png"
+  ]
+}
